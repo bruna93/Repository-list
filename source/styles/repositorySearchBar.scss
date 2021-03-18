@@ -1,0 +1,45 @@
+form {
+    background-color: #a9a9a9;
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 40px 40px;
+  }
+
+input {
+    all: unset;
+    height: 100%;
+    width: 100%;
+    padding: 6px 10px;
+    color: #fff;
+}
+
+::placeholder {
+    color: #333;
+    opacity: 0.7; 
+}
+
+button {
+    all: unset;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-left: solid 2px #a9a9a9;
+    padding: 0 0 0 10px;
+    border-radius: 0 5px 5px 0;
+}
+
+button:hover{
+    background: #666;
+    color: #fff;
+}
+
+img {
+    color: #333;
+    fill: currentColor;
+    width: 24px;
+    height: 24px;
+}
