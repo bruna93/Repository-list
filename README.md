@@ -1,8 +1,8 @@
 # Repository-list
 Lista de repositórios desenvolvida em React, que acessa os repositórios de um usuário através da API do github. 
 
-Tecnologias utilizadas
-HTML
-CSS/SCSS
-JavaScript
-TypeScript
+<p>Tecnologias utilizadas<p>
+<p>HTML<p>
+<p>CSS/SCSS<p>
+<p>JavaScript<p>
+<p>TypeScript<p>
